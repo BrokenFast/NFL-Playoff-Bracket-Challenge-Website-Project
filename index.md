@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
     <head>
    <title>NFL Playoff Bracket Challenge</title>
@@ -6,7 +6,7 @@
         <hr /><hr />
         </head>
     <body>
-           <div class = "AFC">
+<div class = "AFC">
     <h1>Week 1 AFC</h1>
     <p>These teams are set to play:</p>
     <hr />
@@ -24,7 +24,7 @@
        <hr />
        </div>
 
-    <div class = "NFC">
+<div class = "NFC">
     <h1>Week 1 NFC</h1>
     <p>These teams are set to play:</p>
     <hr />
@@ -42,7 +42,7 @@
         <hr />
        </div>
 
-    <div class = "AFC">
+<div class = "AFC">
     <h1>Week 2 AFC</h1>
 <label>Choose a team:</label>
  <input id ="Week 2 AFC" type="text" list="AFC Teams a"/>
@@ -69,7 +69,7 @@
     <hr />
     </div>
 
-        <div class = "NFC">
+<div class = "NFC">
        <h1>Week 2 NFC</h1>
 <label>Choose a team:</label>
  <input id ="Week 2 NFC" type="text" list="NFC Teams a"/>
@@ -131,11 +131,12 @@
 <option value="NFC Champions">
 </datalist>
 <hr /><hr />
-    </div>
 
-    </body>
+</div>
 
-    <style>
+</body>
+
+<style>
         h1{
 text_align:middle;
 }
