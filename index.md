@@ -1,4 +1,3 @@
-
 <html>
     <head>
    <title>NFL Playoff Bracket Challenge</title>
