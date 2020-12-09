@@ -1,5 +1,6 @@
 <html>
     <head>
+    
 <title>NFL Playoff Bracket Challenge</title>
        <h1> NFL Playoff Bracket Challenge </h1>
         <hr /><hr />
@@ -133,46 +134,6 @@
 
 </div>
 
-    </body>
+</body>
 
-<style>
-h1{
-text_align:middle;
-}
-
-
-body{
-
-}
-
-
-
-p.ChampWeek{
-float:right;
-    
-}
-div.AFC{
-float:left;
-width:200px    
-}
-
-div.AFCCW{
-float: left;
-width:200px
-}
-
-div.NFCCW{
-float:right;
-width:200px
-}
-
-div.NFC{
-float:right;
-width:200px
-}
-
-div.SBS{
-width:200px
-}
-</style>
 </html>
