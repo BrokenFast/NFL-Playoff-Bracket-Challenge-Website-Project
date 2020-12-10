@@ -2,8 +2,8 @@
     <head>
     
 <title>NFL Playoff Bracket Challenge</title>
-       <h1> NFL Playoff Bracket Challenge </h1>
-       <p>You pick the winner from the week before to choose who you think will play that weekend.</p>
+       <h1 align= "center"> NFL Playoff Bracket Challenge </h1>
+       <p align= "center">You pick the winner from the week before to choose who you think will play that weekend.</p>
         <hr /><hr />
     </head>
     <body>
