@@ -3,6 +3,7 @@
     
 <title>NFL Playoff Bracket Challenge</title>
        <h1> NFL Playoff Bracket Challenge </h1>
+       <p>You pick the winner from the week before to choose who you think will play that weekend.</p>
         <hr /><hr />
     </head>
     <body>
@@ -97,7 +98,7 @@
 </div>
 
  
-<h1>Championship Weekend</h1>
+<h1 align= "center">Championship Weekend</h1>
 
 <p class= "ChampWeek">
 <div class="AFCCW">
@@ -117,13 +118,14 @@
     <option value="Higher Seed Winner">
 </datalist>
 </div>
-    <hr />
 </p>
+    <hr />
+
 <div class="hr">
     <hr /><hr /><hr /><hr /><hr />
 </div>
     
-<div class="SBS">
+<div class="SBS" align= "center">
     <h1>Super Bowl Sunday</h1>
     <input id="Super Bowl Sunday" type="text" list="Championship Teams"/>
 <datalist id="Championship Teams">
