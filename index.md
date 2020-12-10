@@ -140,7 +140,7 @@
     
 <div class="SBS" align= "center">
     <h1>Super Bowl Sunday</h1>
-    
+
 <input id="Super Bowl Sunday" type="text" list="Championship Teams"/>
 <datalist id="Championship Teams">
     <option value="AFC Champions">
@@ -152,5 +152,34 @@
 <input type= "submit" value= "Submit" align="center"/>
 </form>
 </body>
-
+<style>
+h1{
+text_align:middle;
+}
+body{
+background-color:green;
+background-img:
+img-src("C:desktop/documents/documents/Github/res/nfl-logo.png");
+}
+p.ChampWeek{
+float:right;    
+}
+div.AFC{
+float:left;
+width:191px    
+}
+div.AFCCW{
+float:left;
+}
+div.NFCCW{
+float:right;
+width:191px
+}
+div.NFC{
+float:right;
+width:191px
+}
+div.SBS{
+}
+</style>
 </html>
