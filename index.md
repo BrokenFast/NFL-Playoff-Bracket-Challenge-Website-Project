@@ -42,7 +42,7 @@
        <p>"Wildcard 1"</p>
         <hr />
 </div>
-
+<form id="main" action="https://brokenfast.github.io/NFL-Playoff-Bracket-Challenge-Website-Project/">
 <div class = "AFC">
     <h1>Week 2 AFC</h1>
     <label>Choose a team:</label>
@@ -135,7 +135,8 @@
     <hr /><hr />
 
 </div>
-
+<input type= "submit" value= "Submit" align="center"/>
+</form>
 </body>
 
 </html>
