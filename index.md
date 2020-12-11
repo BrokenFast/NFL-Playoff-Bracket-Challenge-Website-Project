@@ -49,30 +49,27 @@
     <label>Choose a team:</label>
 
 <select id ="Week 2 AFC" type="text" list="AFC Teams a"/>
-<datalist id="AFC Teams a">
     <option value="Number 4 Seed">
     <option value="Wildcard 1">
-</datalist>
+
 
  <p>PLAYS AGAINST</p>
 <p>"Number 1 Seed (Division Winner)"</p>
     <hr />
 <label>Choose a team:</label>
 
-<select id ="Week 2 AFC" type="text" list="AFC Teams b"/>
-<datalist id="AFC Teams b">
+<select id ="Week 2 AFC" type="text" list="AFC Teams b">
     <option value="Number 2 Seed">
     <option value="Wildcard 3">
-</datalist>
+
 
  <p>PLAYS AGAINST</p>
 <label>Choose a team:</label>
 
-<select id ="Week 2 AFC" type="text" list="AFC Teams c"/>
-<datalist id="AFC Teams c">
+<select id ="Week 2 AFC" type="text" list="AFC Teams c">
     <option value="Number 3 Seed">
     <option value="Wildcard 2">
-</datalist>
+
     <hr />
 </div>
 
@@ -81,31 +78,28 @@
 <h1>Week 2 NFC</h1>
 <label>Choose a team:</label>
 
-<select id ="Week 2 NFC" type="text" list="NFC Teams a"/>
-<datalist id="NFC Teams a">
+<select id ="Week 2 NFC" type="text" list="NFC Teams a">
     <option value="Number 4 Seed">
     <option value="Wildcard 1"> 
-</datalist>
+
 
  <p>PLAYS AGAINST</p>
 <p>"Number 1 Seed (Division Winner)"</p>
     <hr />
 <label>Choose a team:</label>
 
-<select id ="Week 2 NFC" type="text" list="NFC Teams b"/>
-<datalist id="NFC Teams b">
+<select id ="Week 2 NFC" type="text" list="NFC Teams b">
     <option value="Number 2 Seed">
     <option value="Wildcard 3">
-</datalist>
+
 
  <p>PLAYS AGAINST</p>
 <label>Choose a team:</label>
 
-<select id ="Week 2 NFC" type="text" list="NFC Teams c"/>
-<datalist id="NFC Teams c">
+<select id ="Week 2 NFC" type="text" list="NFC Teams c">
     <option value="Number 3 Seed">
     <option value="Wildcard 2">
-</datalist>
+
     <hr />
 </div>
 
@@ -114,22 +108,19 @@
 <p class= "ChampWeek">
 <div class="AFCCW">
 
-<select id="Championship Weekend" type="text" list="AFC Championship Contenders"/>
-<datalist id="AFC Championship Contenders">
+<select id="Championship Weekend" type="text" list="AFC Championship Contenders">
     <option value="Lower Seed Winner">
     <option value="Higher Seed Winner">
-</datalist>
 </div>
 
  PLAYS AGAINST
  
 <div class="NFCCW">
 
-<select id="Championship Weekend" type="text" list="NFC Championship Contenders"/>
-<datalist id="NFC Championship Contenders">
+<select id="Championship Weekend" type="text" list="NFC Championship Contenders">
     <option value="Lower Seed Winner">
     <option value="Higher Seed Winner">
-</datalist>
+
 </div>
 </p>
     <hr />
@@ -141,11 +132,9 @@
 <div class="SBS" align= "center">
     <h1>Super Bowl Sunday</h1>
 
-<select id="Super Bowl Sunday" type="text" list="Championship Teams"/>
-<datalist id="Championship Teams">
+<select id="Super Bowl Sunday" type="text" list="Championship Teams">
     <option value="AFC Champions">
     <option value="NFC Champions">
-</datalist>
     <hr /><hr />
 
 </div>
