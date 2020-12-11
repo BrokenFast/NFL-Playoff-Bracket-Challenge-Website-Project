@@ -43,12 +43,12 @@
         <hr />
 </div>
 
-<form id="main" action="https://brokenfast.github.io/NFL-Playoff-Bracket-Challenge-Website-Project/">
+<form id="main" action="https://brokenfast.github.io/NFL-Playoff-Bracket-Challenge-Website-Project/bracketresults.php" method="post">
 <div class = "AFC">
     <h1>Week 2 AFC</h1>
     <label>Choose a team:</label>
 
-<input id ="Week 2 AFC" type="text" list="AFC Teams a"/>
+<select id ="Week 2 AFC" type="text" list="AFC Teams a" multiple/>
 <datalist id="AFC Teams a">
     <option value="Number 4 Seed">
     <option value="Wildcard 1">
@@ -59,7 +59,7 @@
     <hr />
 <label>Choose a team:</label>
 
-<input id ="Week 2 AFC" type="text" list="AFC Teams b"/>
+<select id ="Week 2 AFC" type="text" list="AFC Teams b"/>
 <datalist id="AFC Teams b">
     <option value="Number 2 Seed">
     <option value="Wildcard 3">
@@ -68,7 +68,7 @@
  <p>PLAYS AGAINST</p>
 <label>Choose a team:</label>
 
-<input id ="Week 2 AFC" type="text" list="AFC Teams c"/>
+<select id ="Week 2 AFC" type="text" list="AFC Teams c"/>
 <datalist id="AFC Teams c">
     <option value="Number 3 Seed">
     <option value="Wildcard 2">
@@ -81,7 +81,7 @@
 <h1>Week 2 NFC</h1>
 <label>Choose a team:</label>
 
-<input id ="Week 2 NFC" type="text" list="NFC Teams a"/>
+<select id ="Week 2 NFC" type="text" list="NFC Teams a"/>
 <datalist id="NFC Teams a">
     <option value="Number 4 Seed">
     <option value="Wildcard 1"> 
@@ -92,7 +92,7 @@
     <hr />
 <label>Choose a team:</label>
 
-<input id ="Week 2 NFC" type="text" list="NFC Teams b"/>
+<select id ="Week 2 NFC" type="text" list="NFC Teams b"/>
 <datalist id="NFC Teams b">
     <option value="Number 2 Seed">
     <option value="Wildcard 3">
@@ -101,7 +101,7 @@
  <p>PLAYS AGAINST</p>
 <label>Choose a team:</label>
 
-<input id ="Week 2 NFC" type="text" list="NFC Teams c"/>
+<select id ="Week 2 NFC" type="text" list="NFC Teams c"/>
 <datalist id="NFC Teams c">
     <option value="Number 3 Seed">
     <option value="Wildcard 2">
@@ -114,7 +114,7 @@
 <p class= "ChampWeek">
 <div class="AFCCW">
 
-<input id="Championship Weekend" type="text" list="AFC Championship Contenders"/>
+<select id="Championship Weekend" type="text" list="AFC Championship Contenders"/>
 <datalist id="AFC Championship Contenders">
     <option value="Lower Seed Winner">
     <option value="Higher Seed Winner">
@@ -125,7 +125,7 @@
  
 <div class="NFCCW">
 
-<input id="Championship Weekend" type="text" list="NFC Championship Contenders"/>
+<select id="Championship Weekend" type="text" list="NFC Championship Contenders"/>
 <datalist id="NFC Championship Contenders">
     <option value="Lower Seed Winner">
     <option value="Higher Seed Winner">
@@ -141,7 +141,7 @@
 <div class="SBS" align= "center">
     <h1>Super Bowl Sunday</h1>
 
-<input id="Super Bowl Sunday" type="text" list="Championship Teams"/>
+<select id="Super Bowl Sunday" type="text" list="Championship Teams"/>
 <datalist id="Championship Teams">
     <option value="AFC Champions">
     <option value="NFC Champions">
