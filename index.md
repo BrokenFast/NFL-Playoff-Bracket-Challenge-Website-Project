@@ -48,7 +48,7 @@
     <h1>Week 2 AFC</h1>
     <label>Choose a team:</label>
 
-<select id ="Week 2 AFC" type="text" list="AFC Teams a" multiple/>
+<select id ="Week 2 AFC" type="text" list="AFC Teams a"/>
 <datalist id="AFC Teams a">
     <option value="Number 4 Seed">
     <option value="Wildcard 1">
