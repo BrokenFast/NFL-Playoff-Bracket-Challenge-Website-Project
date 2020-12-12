@@ -1,3 +1,3 @@
 <html>
-<?php echo $POST["main"]: ?>
+<?php echo $_POST["main"]: ?>
 </html>
