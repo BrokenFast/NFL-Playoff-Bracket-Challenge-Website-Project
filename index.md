@@ -77,7 +77,7 @@
 </datalist>
     <hr />
 </div>
-<div class = "NFC">
+<div class = "NFC2">
     <h1>Week 2 NFC</h1>
     <label>Choose a team:</label>
     <select id ="Week 2 NFC" type="text" list="NFC Teams a">
@@ -178,6 +178,10 @@ float:left;
 width:191px    
 }
 div.NFC{
+float:right;
+width:191px
+}
+div.NFC2{
 float:right;
 width:191px
 }
