@@ -88,7 +88,7 @@
 	</select>
 </datalist>
     <p>PLAYS AGAINST</p>
-    <p>"Number 1 Seed (Division Winner)"</p>
+<p>"Number 1 Seed (Division Winner)"</p>
     <hr />
     <label>Choose a team:</label>
     <select id ="Week 2 NFC" type="text" list="NFC Teams b">
