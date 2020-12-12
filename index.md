@@ -75,7 +75,7 @@
     <option value="Wildcard 2">Wildcard 2</option>
 	</select>
 </datalist>
-    <hr />
+    <hr /><hr />
 </div>
 <div class = "NFC">
     <h1>Week 2 NFC</h1>
@@ -107,7 +107,7 @@
     <option value="Wildcard 2">Wildcard 2</option>
 	</select>
 </datalist>
-    <hr />
+    <hr /><hr />
 </div>
 <div class="hr">
     <hr /><hr /><hr /><hr /><hr />
@@ -123,7 +123,7 @@
 </datalist>
 </div>
  PLAYS AGAINST 
- <p class= "ChampWeek">
+<p class= "ChampWeek">
 <div class="NFCCW">
     <select id="Championship Weekend" type="text" list="NFC Championship Contenders">
 <datalist id="NFC Championship Contenders">
