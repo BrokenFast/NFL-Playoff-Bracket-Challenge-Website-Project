@@ -78,7 +78,7 @@
     <hr />
 </div>
 <div class = "NFC">
-       <h1>Week 2 NFC</h1>
+    <h1>Week 2 NFC</h1>
     <label>Choose a team:</label>
     <select id ="Week 2 NFC" type="text" list="NFC Teams a">
 <datalist id="NFC Teams a">
@@ -113,7 +113,6 @@
     <hr /><hr /><hr /><hr /><hr />
 </div>
 <h1 align="center">Championship Weekend</h1>
-
 <div class="AFCCW">
     <select id="Championship Weekend" type="text" list="AFC Championship Contenders"/>
 <datalist id="AFC Championship Contenders">
@@ -138,8 +137,7 @@
     <hr />
 <div class="hr">
     <hr /><hr /><hr /><hr /><hr />
-</div>
-    
+</div> 
 <div class="SBS" align="center">
     <h1>Super Bowl Sunday</h1>
     <select id="Super Bowl Sunday" type="text" list="Championship Teams"/>
@@ -179,14 +177,14 @@ div.AFC{
 float:left;
 width:191px    
 }
+div.NFC{
+float:right;
+width:191px
+}
 div.AFCCW{
 float:left;
 }
 div.NFCCW{
-float:right;
-width:191px
-}
-div.NFC{
 float:right;
 width:191px
 }
