@@ -77,7 +77,6 @@
 </datalist>
     <hr />
 </div>
-
 <div class = "NFC">
        <h1>Week 2 NFC</h1>
     <label>Choose a team:</label>
@@ -110,7 +109,6 @@
 </datalist>
     <hr />
 </div>
-
 <div class="hr">
     <hr /><hr /><hr /><hr /><hr />
 </div>
@@ -125,7 +123,6 @@
 	</select>
 </datalist>
 </div>
-
  PLAYS AGAINST 
  <p class= "ChampWeek">
 <div class="NFCCW">
@@ -139,7 +136,6 @@
 </div>
 </p>
     <hr />
-
 <div class="hr">
     <hr /><hr /><hr /><hr /><hr />
 </div>
@@ -154,7 +150,6 @@
 	</select>
 </datalist>
     <hr /><hr />
-
 </div>
 <div class="hr">
     <hr /><hr /><hr /><hr /><hr />
