@@ -176,8 +176,6 @@ text_align:middle;
 }
 body{
 background-color:green;
-background-img:
-img-src("C:desktop/documents/documents/Github/res/nfl-logo.png");
 }
 p.ChampWeek{
 float:right;   
