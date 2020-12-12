@@ -112,9 +112,9 @@
 <div class="hr">
     <hr /><hr /><hr /><hr /><hr />
 </div>
-<h1 align="center">Championship Weekend</h1>
 <div class="AFCCW">
-    <select id="Championship Weekend" type="text" list="AFC Championship Contenders"/>
+<h1 align="center">Championship Weekend</h1>
+    <select id="Championship Weekend" type="text" list="AFC Championship Contenders">
 <datalist id="AFC Championship Contenders">
 	<option value="DEFAULT">----------------------------</option>   
     <option value="Lower Seed Winner">Lower Seed Winner</option>
@@ -125,7 +125,7 @@
  PLAYS AGAINST 
  <p class= "ChampWeek">
 <div class="NFCCW">
-    <select id="Championship Weekend" type="text" list="NFC Championship Contenders"/>
+    <select id="Championship Weekend" type="text" list="NFC Championship Contenders">
 <datalist id="NFC Championship Contenders">
 	<option value="DEFAULT">----------------------------</option>   
     <option value="Lower Seed Winner">Lower Seed Winner</option>
@@ -140,7 +140,7 @@
 </div> 
 <div class="SBS" align="center">
     <h1>Super Bowl Sunday</h1>
-    <select id="Super Bowl Sunday" type="text" list="Championship Teams"/>
+    <select id="Super Bowl Sunday" type="text" list="Championship Teams">
 <datalist id="Championship Teams">
 	<option value="DEFAULT">----------------------------</option>   
     <option value="AFC Champions">AFC Champions</option>
