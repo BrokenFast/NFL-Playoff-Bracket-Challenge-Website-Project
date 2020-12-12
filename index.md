@@ -165,10 +165,11 @@
     </body>
 <style>
 h1{
-text_align:middle;
+text-align:center;
 }
 body{
 background-color:green;
+text-align:center;
 }
 p.ChampWeek{
 float:right;   
